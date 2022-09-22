@@ -2,4 +2,4 @@
 
 <p>The final result would look something like this.</p>
 
-<img href="fical-result.jpeg" alt="searchbar">
+<img href="final-result.jpeg" alt="searchbar">
